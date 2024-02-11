@@ -1,0 +1,6 @@
+/resources/home/
+/temp/*
+!/temp/.gitkeep
+/downloads/*
+!/downloads/.gitkeep
+__pycache__
